@@ -11,6 +11,9 @@ Pull the pin, four seconds later it beeps loudly and lights flash.
 I haven't included the files for enclosures yet.
 I have both a MK2 pineapple version and an M84 flashbang shell.
 
+![Mk2 and M84 grenades](https://github.com/Q-Prop/AirsoftSoundGrenade/blob/main/M2andM84.jpg)
+
+
 ## Circuit Board
 The schematic in Airsoft Sound Grenade Schematic.pdf was designed in EasyEDA, for easy PCB production.
 
