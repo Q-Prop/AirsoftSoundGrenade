@@ -27,6 +27,8 @@ The Capacitor and inductor in the lower middle of the board need mechanbical att
 
 In addition to the surface mount components, you will need a miniature micro switch, a 2xAAA battery holder, and a buzzer.
 
+![PCB Ready to Assemble](https://github.com/Q-Prop/AirsoftSoundGrenade/blob/main/PCBReadytoAssemble.jpg)
+
 ## Programming
 Finally you will need to use an in circuit programmer to program the boards.
 The Arduino code is in AirsoftSoundGrenade.ino 
